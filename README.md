@@ -1,3 +1,6 @@
+<!-- Badges Source: https://dev.to/envoy_/150-badges-for-github-pnk -->
+<!-- https://github.com/badges -->
+
 ### Hey there! I'm Kbgoda 👋
 
 **Fun fact:** I have lived in 4 countries ✈️🇮🇳🇯🇵🇺🇸🇦🇺
