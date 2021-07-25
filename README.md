@@ -1,11 +1,12 @@
 ### Hey there! I'm Kbgoda 👋
 
-- ✨ Fun fact: I have lived in 4 countries ✈️🇮🇳🇯🇵🇺🇸🇦🇺
-- 💬 Ask me about what's my favorite dish 😀🌮
-- 📚 I’m currently learning about consulting  
-- 📲 How to reach me: https://www.linkedin.com/in/kbgoda/
-
+**Fun fact:** I have lived in 4 countries ✈️🇮🇳🇯🇵🇺🇸🇦🇺
 <br>
+**Contact Me:**
+<br>
+<a href="https://www.linkedin.com/in/kbgoda/">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
 
 <p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
@@ -18,13 +19,9 @@
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
     <br>
     <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white"/>
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white"/>
     <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white"/>
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/>
 </p>
