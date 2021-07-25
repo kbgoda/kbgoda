@@ -2,12 +2,6 @@
 
 **Fun fact:** I have lived in 4 countries ✈️🇮🇳🇯🇵🇺🇸🇦🇺
 <br>
-**Contact Me:**
-<br>
-<a href="https://www.linkedin.com/in/kbgoda/">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
 <p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white"/>
@@ -25,3 +19,8 @@
     <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white"/>
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
 </p>
+
+<a href="https://www.linkedin.com/in/kbgoda/">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
